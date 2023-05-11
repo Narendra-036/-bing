@@ -1,0 +1,60 @@
+intial id
+"MemberName"
+
+
+next button
+"iSignupAction"
+
+
+password
+"PasswordInput"
+
+
+next button
+"iSignupAction"
+
+
+firstnanme
+"FirstName"
+
+
+lastname
+"LastName"
+
+
+birth month
+"BirthMonth"    dropdown
+
+
+birtday
+"BirthDay"     dropdown
+
+
+birth year
+"BirthYear"
+
+
+human verification sleep.............
+
+
+
+staysign in button
+"idBtn_Back"
+
+
+new_tab
+
+rewards page
+btn:
+"start-earning-rewards-link"
+
+
+
+
+new_bing
+
+search id
+
+"sb_form_q"
+
+
